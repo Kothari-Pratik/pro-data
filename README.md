@@ -1,7 +1,6 @@
 # pro-data\g
 #ghh
 hn n mmm mm	
->>>>>>> 10711628d8b153ff45f8b441d06fb1c62771bfcd
 
 echo "# pro-data" >> README.md
 git init
